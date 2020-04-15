@@ -8,7 +8,7 @@ The riddle goes as follows:
 
 E.g. you can weigh 3 men against 3 others
 
- man-man-man              man-man-man
+ man-man-man              man-man-man<br>
 ------------------ ^ ------------------
 
 The most intuitive approach is to explore the statespace: if I weigh 3 against 3, the outcomes could be ...
