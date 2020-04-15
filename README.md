@@ -1,14 +1,14 @@
 # 12 Men on an Island
 
 ## Introduction
-My colleagues and I like to challenge each other with mathematical puzzles. One of the puzzles that took a long time to crack was the '12 Men on an Island riddle' (https://medium.com/starts-with-a-bang/weekend-diversion-the-logic-that-stumped-brooklyn-nine-nine-e3974789ca7e)
+My colleagues and I like to challenge each other with mathematical puzzles. One of the puzzles that took a long time to crack was the ['12 Men on an Island riddle'](https://medium.com/starts-with-a-bang/weekend-diversion-the-logic-that-stumped-brooklyn-nine-nine-e3974789ca7e)
 
 The riddle goes as follows:
 "There are 12 men on an island. 11 weigh exactly the same amount, but one of them is slightly lighter or heavier. You must figure out which. The island has no escapes, but there is a see-saw. You can only use the see-saw three times."
 
 E.g. you can weigh 3 men against 3 others
 
- man-man-man              man-man-man<br>
+ man-man-man       ^        man-man-man<br>
 ------------------ ^ ------------------
 
 The most intuitive approach is to explore the statespace: if I weigh 3 against 3, the outcomes could be ...
